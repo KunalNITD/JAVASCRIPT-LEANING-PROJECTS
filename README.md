@@ -1,0 +1,2 @@
+# JAVASCRIPT-LEANING-PROJECTS
+projects to learn JS
